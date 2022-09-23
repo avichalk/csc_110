@@ -1,0 +1,7 @@
+tide:tise
+watching:watchin
+am:amm,aam
+evening:evenin,evenig
+sitting:siting,sitin
+morning:morni,mornin
+wasting:wastin
